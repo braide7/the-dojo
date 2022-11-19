@@ -16,7 +16,7 @@ import OnlineUsers from './components/OnlineUsers'
 
 
 function App() {
-  const { user, authIsReady } = useAuthContext()
+  const { authIsReady, user } = useAuthContext()
 
   return (
     <div className="App">
@@ -37,7 +37,7 @@ function App() {
                 {user && <Create/>}
               </Route>
 
-              <Route path="/projects:id">
+              <Route path="/projects/:id">
                 {!user && <Redirect to='/login' />}
                 {user && <Project/>}
               </Route>
