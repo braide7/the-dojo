@@ -1,4 +1,4 @@
-This is a project management sitecreated using React and Firebase, this site is currently hosted at https://thedojosite-74fec.web.app/login
+This is a project management site created using React and Firebase, this site is currently hosted at https://thedojosite-74fec.web.app/login
 
 You are able to login using email: dwight@office.com password: test123
 
