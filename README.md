@@ -1,3 +1,27 @@
+This is a project management sitecreated using React and Firebase, this site is currently hosted at https://thedojosite-74fec.web.app/login
+
+You are able to login using email: dwight@office.com password: test123
+
+Login page:
+
+![p](https://github.com/braide7/the-dojo/blob/main/screenshots/loginPage.png)
+
+Dashboard:
+
+![p](https://github.com/braide7/the-dojo/blob/main/screenshots/dashboard.png)
+
+New Project:
+
+![p](https://github.com/braide7/the-dojo/blob/main/screenshots/newProject.png)
+
+Project Page: 
+
+![p](https://github.com/braide7/the-dojo/blob/main/screenshots/project.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
